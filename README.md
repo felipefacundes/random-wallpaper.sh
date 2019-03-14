@@ -19,22 +19,32 @@ add the script to an autostart folder, example: ~/.config/autostart
 Or, add on ~/.xinitrc
 
 
-Commands reported in script:
 
+# Commands reported in script:
 For MATE Desktop:
+
 gsettings set org.mate.background picture-filename
 
+
 For LXDE Desktop:
+
 pcmanfm -w
 
+
 For fluxbox
+
 fbsetbg -a
 
+
 For NITROGEN
+
 nitrogen --set-zoom-fill
 
+
 For FEH
+
 feh --bg-scale
+
 
 # Licence script: random-wallpaper.sh
 # GPLv2
