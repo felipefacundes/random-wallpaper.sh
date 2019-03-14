@@ -29,5 +29,8 @@ done;
 # Para NITROGEN
 # nitrogen --set-zoom-fill
 
+# Para FEH
+# feh --bg-scale
+
 # Para png e jpg
 # *.[jJpP][nNpP][gG]
